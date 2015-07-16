@@ -1,0 +1,18 @@
+<filetype binary="false" default_extension="" description="Parsley Grammar" name="Parsley Grammar">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="-&gt;" />
+      <option name="COMMENT_START" value="#" />
+      <option name="COMMENT_END" value=";" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+    </options>
+    <keywords keywords="!;*;+;-&gt;;:;=;?;^;|" ignore_case="false" />
+    <keywords2 keywords="(;);&lt;;&gt;;[;];{;}" />
+    <keywords3 keywords="anything;digit;end;exactly;letter;letterOrDigit;ws" />
+    <keywords4 keywords="a;b;c;d;i;j;k;x;y;z" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="grammar" />
+  </extensionMap>
+</filetype>
